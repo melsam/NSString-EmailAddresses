@@ -12,7 +12,7 @@ Some examples of bad email addresses that will be corrected:
 * robert@hotmail.**con** -> robert@hotmail.com
 * robert@**hoitmail.com** -> robert@hotmail.com
 * robert@**hoitmail.con** -> robert@hotmail.com
-* robert@aol**.con** -> robert@aol.com
+* robert@**aol.con** -> robert@aol.com
 * **robert.con@aol.con** -> robert.con@aol.com
 
 
